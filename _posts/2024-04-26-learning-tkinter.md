@@ -15,6 +15,6 @@ select_button.pack(pady=20)
 Those lines were actually enough ( with some small additions here and there ), to make the UI run and have the actual button displayed. As showed in the code snipped, it is really easy to connect functions to it as well and the internet is full of different guides and tutorials that helps with app delvelopment. I present my UI to you here, it's ugly but it's does the job. I promise I have an actual sense of beauty, this is a product of me breaking my leg a week before deadline and stressing with getting everything done. 
 
 <div style="text-align:center">
-        <img src="./images/T1GUI.png" alt="My GUI" >
+        <img src="https://patryk1999.github.io/images/T1GUI.png" alt="My GUI" >
 </div>
 
