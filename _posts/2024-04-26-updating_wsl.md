@@ -1,4 +1,5 @@
 # Changing the WSL config files with the purpose of running Docker  
+
 After setting up the container in WSL last week, I have been focusing on getting the GPU working and taking all of the necessary measures. To my suprise, after returning to the cpufrozen branch, it didn't work and my kernel kept on dying while trying to learn my model. 
 
 
